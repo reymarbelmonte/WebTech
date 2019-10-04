@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
-	
-	<!DOCTYPE html>
 <div id="header"></div>
 <div class="left"></div>
-<div class="stuff">
+<div class="stuff"></div>
+<div class="body"></div>
   <center>
   <h1>Resume</h1>
   </center>
   <h2>Reymar L. Belmonte</h2>
   <br>
   <br>
+  <body>
   <section>
   <p class="head">Informations</p>
   <ul>
@@ -30,7 +30,6 @@
     <li>Programming</li>
   </ul>
 </section>
-
 <section>
 	<aside>
   <p class="head">Skills</p>
@@ -63,7 +62,10 @@
     <li>Book Club</li>
   </ul>
 </div>
+</div>
 </aside>
+</section>
+</body>
 <footer>
 <div class="right"></div>
   <h2 id="name">Reymar</h2></div>
