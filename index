@@ -1,1 +1,30 @@
-
+<!DOCTYPE html>
+<html>
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff"></div>
+<div class="body"></div>
+<font size="6">
+  <center>
+  <h1>My Resume</h1>
+  <br>
+  <h2>Reymar L. Belmonte</h2>
+  <br>
+  <body>
+  <p>Hi am Reymar L. Belmonte I am a fresh graduate from University of the Cordilleras, I took Bachelor of Science in Information Technology 
+  Major in Web Technology. My interest are reading books and I love to watch movies and series. I have an interest in web designing when I was in senior high
+  and I dream to design and create my own website.</p>
+    </center>
+</body>
+<center>
+<footer>
+<div class="right"></div>
+  <a <a href="info.html"><button class="info">Info</a></button></br><a <a href="ed.html"><button class="ed">Education</a></button>
+  <b>Contact:<b>
+  <li>Facebook: Mar Belmonte</li>
+  <li>Instagram: mar_bel9</li>
+  <li>Cellphone no.: 099958801812</li>
+  </font>
+  </center>
+</footer>
+</html>
