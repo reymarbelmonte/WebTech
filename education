@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html>
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff"></div>
+<div class="body"></div>
 
+<font size="5">
+<section>
+	<aside>
+  <b><p class="head">Skills</p></b>
+  <ul>
+    <li>Web Design with HTML & CSS</li>
+  </ul>
+</aside>
+<section>
+  <b><p class="head">Education</p></b>
+  <ul>
+  	<li>College:	University of the Cordilleras</li>
+    </a>
+      <li>Senior High: Lyceum Northwestern University</li>
+    </a>
+      <li>Grade 1 - Grade 10:	Little Shoe Integrated School</li>
+    </a>
+    <li>Nursery:	Guiling Rosales Pangasinan</li>
+  </ul>
+  </section>
+ <b> <p class="head">Experience</p></b>
+  <aside>
+  <ul>
+    <li>Student Technology Intern for University of the Cordilleras</li>
+    <li>Web Designer for Rosales LGU</li>
+  </ul>
+ 
+<b> <p class="head">Extracurriculars</p></b>
+  <ul>
+    <li>Recycling Club</li>
+    <li>Gardening Club</li>
+    <li>Web Club</li>
+  </ul>
+</div>
+</div>
+</aside>
+</section>
+</body>
+<footer>
+<div class="right"></div>
+<center><a href="index.html"><button class="index">Back</a></button></center>
+</font>
+</footer>
+</html>
