@@ -1,1 +1,34 @@
-
+<!DOCTYPE html>
+<html>
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff"></div>
+<div class="body"></div>
+  <center>
+  <h1>PERSONAL INFORMATION</h1>
+  </center>
+  <br>
+  <br>
+  <body>
+  <section>
+  <font size="6">
+  <p class="head">Informations</p>
+  <ul>
+    <li>First Name:               Reymar</li>
+	<li>Last Name:				  Belmonte</li>
+	<li>Middle Name:			  Lacuesta</li>
+    <li>Birthday:			June 15, 1999</li>
+    <li>Birth Place:			Urdaneta City</li>
+    <li>Age:				20</li>
+    <li>Status:				Single</li>
+	<li>Gender:				Male</li>
+    <li>Address:            Guiling Rosales, Pangasinan</li>
+	
+  </ul>
+</section>
+<center>
+<a href="index.html"><button class="index">Back</a></button>
+</font>
+</center>
+</html>
+  
