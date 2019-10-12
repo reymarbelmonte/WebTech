@@ -4,6 +4,8 @@
 <div class="left"></div>
 <div class="stuff"></div>
 <div class="body"></div>
+<body bgcolor="##008000">
+<font color="white">
   <center>
   <h1>PERSONAL INFORMATION</h1>
   </center>
@@ -28,6 +30,8 @@
 </section>
 <center>
 <a href="index.html"><button class="index">Back</a></button>
+</font>
+</font>
 </font>
 </center>
 </html>
