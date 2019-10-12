@@ -6,11 +6,17 @@
 <div class="body"></div>
 
 <font size="5">
+<body bgcolor="##008000">
+<font color="white">
 <section>
 	<aside>
   <b><p class="head">Skills</p></b>
   <ul>
-    <li>Web Design with HTML & CSS</li>
+    <li>Web Design with HTML & CSS knowledge</li>
+	<li>Creative</li>
+	<li>Fast Learner</li>
+	<li>Always on time</li>
+	<li>Flexible</li>
   </ul>
 </aside>
 <section>
@@ -46,6 +52,8 @@
 <footer>
 <div class="right"></div>
 <center><a href="index.html"><button class="index">Back</a></button></center>
+</font>
+</font>
 </font>
 </footer>
 </html>
