@@ -4,7 +4,9 @@
 <div class="left"></div>
 <div class="stuff"></div>
 <div class="body"></div>
+<body bgcolor="##008000">
 <font size="6">
+<font color="white">
   <center>
   <h1>My Resume</h1>
   <br>
@@ -20,11 +22,21 @@
 <footer>
 <div class="right"></div>
   <a <a href="info.html"><button class="info">Info</a></button></br><a <a href="ed.html"><button class="ed">Education</a></button>
+  </font>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <font size ="4">
   <b>Contact:<b>
+  <a href="Facebook" class="fa fa-facebook"></a>
   <li>Facebook: Mar Belmonte</li>
   <li>Instagram: mar_bel9</li>
   <li>Cellphone no.: 099958801812</li>
   </font>
+  </font>
   </center>
+  </body>
 </footer>
 </html>
